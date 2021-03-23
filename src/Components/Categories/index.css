@@ -1,0 +1,16 @@
+.cont_card{
+    margin: 1rem;
+}
+
+.cont-row.row {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+.cont-row .card {
+    display: inline-block;
+    float: none;
+    width: 10rem;
+    cursor: pointer;
+}

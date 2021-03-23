@@ -1,0 +1,22 @@
+.card-text.weight-para{
+    margin-bottom: 0;
+    color: gray;
+    font-size: 13px;
+}
+
+.prod_name{
+    font-size: 23px;
+    font-weight: bolder;
+}
+
+.card .card-header{
+    background-color: white;
+}
+
+.viewChange{
+    cursor: pointer;
+}
+
+.viewChange:hover{
+    text-decoration: underline;
+}
